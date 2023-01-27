@@ -1,8 +1,6 @@
 # Blog
 
-Blog de posts 
-
-Mini CMS para publicación de artículos con gestión de administración.
+Mini CMS para publicación de artículos.
 
 ## Instalar paquetes
 
